@@ -24,17 +24,11 @@ const HomePage: React.FC = () => {
                 Discover the perfect lighting solutions for every space. From smart LEDs to custom designs, transform your environment with our high-quality products.
               </p>
               <div className="flex flex-wrap gap-4">
-<<<<<<< HEAD
                 <Link to="/shop" className="text-gray-300 hover:text-white transition-colors">
                   <Button size="lg" variant="primary">
                     Shop Now
                   </Button>
                 </Link>
-=======
-                <Button size="lg" variant="primary">
-                  Shop Now
-                </Button>
->>>>>>> 632d40f28fba5bd8fa6b3b17d73850b8255ac0a3
                 <Button size="lg" variant="outline">
                   Explore Collections
                 </Button>
